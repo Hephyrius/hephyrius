@@ -6,4 +6,4 @@
 - 🎬 I also work on [videos under this alias too!](https://www.youtube.com/channel/UCamWRprZmZ02TJAvGCCZzYg) 
 - 📈 I occasionally dabble in programmatic finance. ((I love losing money in the persuit of knowledge)) 📉
 - 📫 How to reach me: Github / [Linkedin](https://www.linkedin.com/in/harnickkhera/) or [E-mail](harnickk@gmail.com) me.
-- ♾️ P.S. Most of the code I open source is crappy! Beware :)
+- ♾️ P.S. Most of the code I open source is crappy and not maintained! Beware :)
