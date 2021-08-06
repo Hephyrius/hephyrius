@@ -3,7 +3,7 @@
 - 🏠😾
 - 🎓 PhD Student at Queen Mary, University of London
 - 🔬 I am Researching AI Applications to Source Seperation Problems
-- 🧙 DEFI WIZZARD, occasionally wearing a dark shaded hat 🎩
+- 🧙 DEFI WIZZARD, occasionally wearing a shaded hat 🎩
 - 📈 I dabble in automated algorithmic finance
 - 🤖 I used to on AI powered projects as a hobby, under the umbrella of [SingularitAI](https://github.com/singularitai)
 - 🎬 I used to work on [videos under this alias!](https://www.youtube.com/channel/UCamWRprZmZ02TJAvGCCZzYg) 
