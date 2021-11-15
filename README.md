@@ -1,8 +1,8 @@
 ### Hello There, Comrade ☭
 
 - 😾 Cofounder at Housecat 
-- 🧙 Defi Warlock
-- 🎩 Occasionally wearing a coloured hat - saved defi protocols >$250k💰 as a whitehat
+- 👷 DeFi Builder & DeFier
+- 🎩 Occasionally wearing a whitehat - saved defi protocols >$250k💰
 - 🎓 PhD Student at Queen Mary, University of London
 - 🔬 I am Researching AI Applications to Source Seperation Problems
 - 📈 I do automated algorithmic finance when I'm bored
