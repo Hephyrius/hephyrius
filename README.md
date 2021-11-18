@@ -1,6 +1,6 @@
 ### Hello There, Comrade ☭
 
-- 😾 Cofounder at Housecat 
+- 😾 Cofounder & Advisor at Housecat 
 - 👷 DeFi Builder & DeFier
 - 🎩 Occasionally wearing a whitehat - saved defi protocols >$250k💰
 - 🎓 PhD Student at Queen Mary, University of London
