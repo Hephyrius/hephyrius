@@ -1,11 +1,10 @@
 ### Hello There, Comrade ☭
-
-- 😾 Cofounder & Advisor at Housecat 
-- 👷 DeFi Builder & DeFier
-- 🎩 Occasionally wearing a whitehat - saved defi protocols >$250k💰
 - 🎓 PhD Student at Queen Mary, University of London
+- 🎩 Occasionally moonlight as a whitehat💰
+- 👷 Shadowy Builder & MEV chaser
 - 🔬 I am Researching AI Applications to Source Seperation Problems
 - 📈 I do automated algorithmic finance when I'm bored
+- 😾 former Cofounder & Advisor at Housecat 
 - 🤖 My AI powered projects are under the umbrella of [SingularitAI](https://github.com/singularitai)
 - 🎬 I used to work on [videos under this alias!](https://www.youtube.com/channel/UCamWRprZmZ02TJAvGCCZzYg) 
 - 📫 How to reach me: Discord: Hephyrius#6790 / [Github](github.com/Hephyrius)  / [Linkedin](https://www.linkedin.com/in/harnickkhera/) or [E-mail](harnickk@gmail.com) me.
