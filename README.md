@@ -8,4 +8,4 @@
 - 👷 Shadowy Builder, MEV chaser and occasional quant 📈
 - 🤖 [Some AI Stuff I Built SingularitAI](https://github.com/singularitai)
 - 🎬 [Some AI Videos I Made](https://www.youtube.com/channel/UCamWRprZmZ02TJAvGCCZzYg) 
-- ♾️ P.S. Most of the code I open source under my alias isn't maintained - I don't have the time, feel free to contribute and I'll accept the pull request 🕒
+- ♾️  I don't have the time to maintain any code I open source under my aliases, feel free to contribute and I'll accept the pull request
