@@ -9,4 +9,7 @@
 - 🎬 [Some AI Videos I Made](https://www.youtube.com/channel/UCamWRprZmZ02TJAvGCCZzYg)
 - 🍗 Ex-contributor at [Aura](https://github.com/aurafinance) & Ex-Whitehat Scholar at [Immunefi](https://immunefi.com/whitehat-scholarship/)
 - ♾️  I don't have the time to maintain any code I open source under my aliases, feel free to contribute and I'll accept the pull request
-![Hephyrius GitHub stats](https://github-readme-stats.vercel.app/api?username=hephyrius&show_icons=true&theme=chartreuse-dark)
+
+- 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hephyrius&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hephyrius&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
